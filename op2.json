@@ -1,0 +1,36 @@
+[
+ {
+   "studentId": "604234048",
+   "firstName": "fadel",
+   "lastName": "benlaehnaeh",
+   "nickName": "del",
+   "faculty":"Science And Tecnology",
+   "major":"ComputerScience"
+   "birthDate": "13-07-1999",
+   "picture":"https://raw.githubusercontent.com/604234048CS/My-Friend/master/Del.jpg"
+   "classroom":"Comsci B"
+},
+{
+   "studentid": "604234063",
+   "firstname": "irin",
+   "lastname": "klomkliang",
+   "nickname": "view",
+   "faculty":"Science And Tecnology",
+   "major":"ComputerScience"
+   "BirthDate": "8-11-1998",
+   "picture":"https://raw.githubusercontent.com/604234048CS/My-Friend/master/View.jpg"
+   "classroom":"Comsci B"
+},
+},
+{
+   "studentid": "604234048",
+   "firstname": "fadel",
+   "lastname": "benlaehnaeh",
+   "nickname": "del",
+   "faculty":"Science And Tecnology",
+   "major":"ComputerScience"
+   "birthDate": "13-07-1999",
+   "picture":"https://raw.githubusercontent.com/604234048CS/My-Friend/master/Del.jpg"
+   "classroom":"Comsci B"
+}
+]
