@@ -1,0 +1,26 @@
+[
+ {
+   "studentid": "604234048",
+   "firstname": "fadel",
+   "lastname": "benlaehnaeh",
+   "nickname": "del",
+   "BirthDate": "13-07-1999",
+   "picture":"https://raw.githubusercontent.com/604234048CS/My-Friend/master/Del.jpg"
+},
+{
+   "studentid": "604234063",
+   "firstname": "irin",
+   "lastname": "klomkliang",
+   "nickname": "view",
+   "BirthDate": "8-11-1998",
+   "picture":"https://raw.githubusercontent.com/604234048CS/My-Friend/master/View.jpg"
+},
+{
+"studentid": "604234048",
+   "firstname": "fadel",
+   "lastname": "benlaehnaeh",
+   "nickname": "del",
+   "BirthDate": "13-07-1999",
+   "picture":"https://raw.githubusercontent.com/604234048CS/My-Friend/master/Del.jpg"
+}
+]
