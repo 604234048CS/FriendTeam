@@ -1,6 +1,6 @@
 [
  {
-   "studentid": "604234048",
+   "studentID": "604234048",
    "firstname": "fadel",
    "lastname": "benlaehnaeh",
    "nickname": "del",
@@ -11,7 +11,7 @@
    "classroom":"Comsci B"
 },
 {
-   "studentid": "604234063",
+   "studentID": "604234063",
    "firstname": "irin",
    "lastname": "klomkliang",
    "nickname": "view",
@@ -22,7 +22,7 @@
    "classroom":"Comsci B"
 },
 {
-"studentid": "604234048",
+"studentID": "604234048",
    "firstname": "fadel",
    "lastname": "benlaehnaeh",
    "nickname": "del",
