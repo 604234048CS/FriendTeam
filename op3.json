@@ -6,7 +6,7 @@
    "nickname": "del",
    "faculty":"Science And Tecnology",
    "major":"ComputerScience",
-   "birthday": "13-07-1999T00:00:00",
+   "birthday": "13-07-1999",
    "picture":"https://raw.githubusercontent.com/604234048CS/FriendTeam/master/Del.jpg",
    "classroom":"ComsciB"
 },
@@ -17,7 +17,7 @@
    "nickname": "view",
    "faculty":"Science And Tecnology",
    "major":"ComputerScience",
-   "birthday": "08-11-1998T00:00:00",
+   "birthday": "08-11-1998",
    "picture":"https://raw.githubusercontent.com/604234048CS/FriendTeam/master/view.jpg",
    "classroom":"ComsciB"
 },
@@ -28,7 +28,7 @@
    "nickname": "benz",
    "faculty":"Science And Tecnology",
    "major":"ComputerScience",
-   "birthday": "27-10-1998T00:00:00",
+   "birthday": "27-10-1998",
    "picture":"https://raw.githubusercontent.com/604234048CS/FriendTeam/master/Benz.jpg",
    "classroom":"ComsciB"
 }
